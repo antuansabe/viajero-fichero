@@ -1,20 +1,21 @@
 ---
-title: "14 Architectural Design Ideas for a Spacious Interior"
+title: "Romper el miedo a viajar, Romper el miedo a vivir "
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
-publishDate: "2022-12-30T11:39:36.050Z"
+publishDate: "Feb 14, 2023"
 image: "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=927&h=927"
 category: "lifestyle"
 author: "mario-sanchez"
-tags: [design, architecture, interior]
+tags: [viajes, architecture, interior]
 ---
 
-“What’s the meaning of life?” is a cliche philosophical question, but it touches on something fundamental about how humans relate to the world around them. People want to know that there’s significance to their lives, but not necessarily in any grandiose sense. Most of us just want to feel that there’s value in getting up and being active each day. We search for signs that our existence is a net good in the world, even if only on a minuscule scale in the grander scheme of the universe.
+Te ha pasado que un dia te despiertas con la siguiente pregunta: ¿He vivido la vida que he querido o la que me ha tocado? 
 
-In the past, researchers have identified [three important constructs](https://pubmed.ncbi.nlm.nih.gov/30614732/) underlying “meaning in life”. The first is _coherence_, which refers to an ability to make sense of what’s happening in our lives as we build a personal story. The second is _purpose_, which is the feeling that we’re working toward important life goals. The third is _mattering_, which is the belief that our lives matter in the wider context of the world around us.
+Pues espero que no, por que es una pregunta que puede ser muy abrumadora, aqui hay dos caminos si te han pasado por la cabeza este tipo de interrogantes, podrias continuar tu dia sin mas o bien podrias tomarte unos momentos para reflexionar al respecto.
 
-However, new evidence is revealing an overlooked construct, and it may be the most crucial one of all. Researchers are calling it “experiential appreciation”, and it refers to enjoying and appreciating sensations as you experience them — a concept that you may already recognize if you’re familiar with mindfulness.
+El segundo escenario fue el que escogi o mas bien el escenario que me escogio a mi pues si hay una cosa en la que tengo claridad en la vida es que de lo unico que me voy a arrepentir es de las cosas que no hice.
 
-![Image](https://cdn.sanity.io/images/cijrdavx/production/4b0860eea675e1ebbb0bf25fbff6db2534cfb611-5184x3348.jpg?w=650&q=75&fit=clip&auto=format)
+No es acaso el tiempo nuestro bien mas preciado y por lo tanto lo que hacemos con el nuestra mejor inversion…
+![Image](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9b8a85f4-b8ee-4084-85f5-e6d2f5b9cdcd/IMG_1094/w=1920,quality=90,fit=scale-down)
 
 ## The fourth construct of meaning in life
 
