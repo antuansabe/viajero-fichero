@@ -4,8 +4,8 @@ excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis 
 publishDate: "Feb 14, 2023"
 image: "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=927&h=927"
 category: "lifestyle"
-author: "mario-sanchez"
-tags: [viajes, architecture, interior]
+author: "antonio-dromundo"
+tags: [viajes]
 ---
 
 Te ha pasado que un dia te despiertas con la siguiente pregunta: ¿He vivido la vida que he querido o la que me ha tocado? 
