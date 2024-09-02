@@ -49,6 +49,7 @@ const category = categories.find(
       </h1>
 
       <div class="flex justify-center mt-3 space-x-3 text-gray-500">
+        {author && ( 
         <div class="flex items-center gap-3">
           <div class="relative flex-shrink-0 w-10 h-10">
             {
@@ -82,6 +83,7 @@ const category = categories.find(
             </div>
           </div>
         </div>
+       )}
       </div>
     </div>
   </Container>
