@@ -1,10 +1,10 @@
 ---
-title: "Every Next Level of Your Life Will Demand a Different You"
+title: "Entre Culturas y Amistades: Descubriendo la República Dominicana"
 excerpt: "Some description"
 publishDate: "2022-11-24T11:39:36.050Z"
-image: "https://images.unsplash.com/photo-1501747315-124a0eaca060?auto=format&fit=crop&w=987&h=987"
+image: "/src/assets/blogimages/dominicana.webp"
 category: "personal"
-author: "joshua-wood"
+author: "antonio-dromundo"
 tags: [tag1, tag2, tag3]
 ---
 

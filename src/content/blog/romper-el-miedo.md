@@ -2,7 +2,7 @@
 title: "Romper el miedo a viajar, Romper el miedo a vivir "
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 publishDate: "Feb 14, 2023"
-image: "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=927&h=927"
+image: "/src/assets/blogimages/romper.png"
 category: "lifestyle"
 author: "antonio-dromundo"
 tags: [viajes]
@@ -27,7 +27,7 @@ In a [recently published paper](https://www.nature.com/articles/s41562-021-01283
 - Experiential appreciation: “I appreciate my life as it is right now regardless of the circumstances”
 - Meaning in life: “In general, to what extent do you feel that what you do in your life is valuable and worthwhile?”
 
-The researchers analyzed the survey data, testing how each construct predicted people’s scores in the overall meaning-in-life measure. Consistent with previous research, the three traditional constructs (coherence, purpose, and mattering) all individually predicted meaning in life to some extent. The interesting part was that after accounting for those three constructs, the new fourth construct of experiential appreciation explained another significant portion of people’s meaning in life. In other words, a major ingredient in the meaning-in-life formula had been missed by previous researchers.
+The researchers analyzed the survey data, testing how each construct predicted people’s scores in the overall meaning-in-life measure. Consistent with previous research, the three traditional constructs (coherence, purpose, an mattering) all individually predicted meaning in life to some extent. The interesting part was that after accounting for those three constructs, the new fourth construct of experiential appreciation explained another significant portion of people’s meaning in life. In other words, a major ingredient in the meaning-in-life formula had been missed by previous researchers.
 
 In a second study, the researchers developed their own way to measure experiential appreciation. For the three older constructs, they pulled specialized survey questions from previously published studies. But since experiential appreciation was a newcomer, they had to formalize its meaning and how to measure it. After some careful analysis, they ended up with five survey items. Anyone who scores highly on these items is high in experiential appreciation:
 
