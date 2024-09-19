@@ -8,6 +8,7 @@ author: "antonio-dromundo"
 tags: [viajes]
 ---
 
+
 Te ha pasado que un dia te despiertas con la siguiente pregunta: ¿He vivido la vida que he querido o la que me ha tocado? 
 
 Pues espero que no, por que es una pregunta que puede ser muy abrumadora, aqui hay dos caminos si te han pasado por la cabeza este tipo de interrogantes, podrias continuar tu dia sin mas o bien podrias tomarte unos momentos para reflexionar al respecto.

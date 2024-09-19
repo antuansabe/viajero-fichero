@@ -5,6 +5,7 @@ import { Image } from "@astrojs/image/components";
 import { authors } from "@data/authors";
 import Pagetitle from "@components/pagetitle.astro";
 import Link from "@components/ui/link.astro";
+import { lazy } from "astro/zod";
 ---
 
 <Layout title="About">
@@ -22,10 +23,11 @@ import Link from "@components/ui/link.astro";
               <Image
                 src={item.image}
                 format="avif"
-                width={580}
-                height={580}
+                width={480}
+                height={480}
                 alt="Team"
-                class="w-full h-full object-cover rounded transition  group-hover:-translate-y-1 group-hover:shadow-xl"
+                loading="lazy"
+                class="rounded-full"
               />
             </div>
 
