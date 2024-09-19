@@ -2,7 +2,7 @@
 title: "Entre Culturas y Amistades: Descubriendo la República Dominicana"
 excerpt: "Some description"
 publishDate: "2022-11-24T11:39:36.050Z"
-image: "/src/assets/blogimages/dominicana.webp"
+image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709683/ggdldlbb2j4myiafrqf5.webp"
 category: "personal"
 author: "antonio-dromundo"
 tags: [tag1, tag2, tag3]

@@ -2,7 +2,7 @@
 title: "Portugal, un viaje marcial"
 excerpt: "In 2007, the now-defunct San Antonio Independent Christian Film Festival awarded Best of Festival to a documentary called The Monstrous Regiment of Women "
 publishDate: "2024-01-18T11:39:36.050Z"
-image: "/src/assets/blogimages/portugal.webp"
+image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709692/bjmssaaxow2o0gwufac1.webp"
 category: "personal"
 author: "antonio-dromundo"
 tags: [tag1, tag2, tag3]

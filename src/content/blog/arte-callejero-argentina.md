@@ -2,7 +2,7 @@
 title: "De arte callejero, cultura y activismo en Buenos Aires"
 excerpt: "We always knew but now we know. The tech elite mean to leave us all behind."
 publishDate: "2022-12-27T11:39:36.050Z"
-image: "/src/assets/blogimages/arte.webp"
+image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709688/cjl4lmdufibsuiphje59.webp"
 category: "travel"
 author: "antonio-dromundo"
 tags: [tag1, tag2, tag3]

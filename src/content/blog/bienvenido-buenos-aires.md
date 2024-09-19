@@ -2,7 +2,7 @@
 title: "Bienvenido a Buenos Aires "
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 publishDate: "2022-12-28T11:39:36.050Z"
-image: "/src/assets/blogimages/buenosaires.jpg"
+image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709682/zcqzdv0ngjnq5k1dhxqn.webp"
 category: "travel"
 author: "antonio-dromundo"
 tags: [webdev, tailwindcss, frontend]

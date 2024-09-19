@@ -2,7 +2,7 @@
 title: "Romper el miedo a viajar, Romper el miedo a vivir "
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 publishDate: "Feb 14, 2023"
-image: "/src/assets/blogimages/romper.png"
+image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709781/ozwzs3gonw0arz6tqpjy.png"
 category: "lifestyle"
 author: "antonio-dromundo"
 tags: [viajes]
