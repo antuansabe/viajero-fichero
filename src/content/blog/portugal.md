@@ -1,11 +1,11 @@
 ---
 title: "Portugal, un viaje marcial"
 excerpt: "In 2007, the now-defunct San Antonio Independent Christian Film Festival awarded Best of Festival to a documentary called The Monstrous Regiment of Women "
-publishDate: "2024-01-18T11:39:36.050Z"
+publishDate: "2024-11-18T11:39:36.050Z"
 image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709692/bjmssaaxow2o0gwufac1.webp"
 category: "personal"
 author: "antonio-dromundo"
-tags: [tag1, tag2, tag3]
+tags: [viajes,]
 ---
 
 In 2007, the now-defunct San Antonio Independent Christian Film Festival awarded Best of Festival to a documentary called The Monstrous Regiment of Women, a film that simultaneously asserted that women leading families or nations is antithetical to the Bible, vilified feminists (as Marxists and destroyers of the home), and called legalized abortion an “unparalleled holocaust.” I’m in the midst of researching for a book, and it was already on my calendar last week to rewatch The Monstrous Regiment of Women the day after Supreme Court Justice Samuel Alito’s draft opinion on Roe leaked.

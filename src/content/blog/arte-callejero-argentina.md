@@ -1,36 +1,37 @@
 ---
 title: "De arte callejero, cultura y activismo en Buenos Aires"
-excerpt: "We always knew but now we know. The tech elite mean to leave us all behind."
-publishDate: "2022-12-27T11:39:36.050Z"
+excerpt: "Buenos Aires es una ciudad rica en arte y cultura, y su esencia se refleja no solo en galerías y museos, sino también en su vibrante arte callejero. Al recorrer las calles, te sorprenderá cómo estos carteles capturan el pensamiento colectivo de la ciudad. ¡No te los pierdas!"
+publishDate: "2023-02-27T11:39:36.050Z"
 image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709688/cjl4lmdufibsuiphje59.webp"
 category: "travel"
 author: "antonio-dromundo"
-tags: [tag1, tag2, tag3]
+tags: [viajes, argentina]
 ---
+Y despues de unas semanas caigo en cuenta en lo obvio, Buenos Aires es una ciudad rica en cultura y arte, y no solo se limita a las galerias de arte y museos. El arte callejero, en su gran variedad de expresiones, es una parte integral de la cultura porteña, hoy quiero compartirte una variedad de afiches (carteles pegados en las paredes) que he encontrado por la ciudad en este viaje epico. Los carteles creativos (afiches) en las paredes son a mi parecer no solo una forma de arte si no ademas **una forma de activismo y reflexión social que se ha convertido en una marca distintiva de la ciudad.** 
 
-We always knew but now we know. The tech elite mean to leave us all behind.
+En este post, exploraremos como los carteles callejeros son una forma de arte y también una manera en que la ciudadania expresa sus ideas y pensamientos sobre diversos temas.
 
-I learned this when I traveled to a remote resort to deliver what was supposed to be a talk for a group of tech investors. It turned out to be something of a “consult” to five ultra-wealthy men on their apocalypse survival strategies.
+## Carteles creativos en las paredes
 
-The experience led to a much-circulated piece here and an option for a movie. But it also set me off on a multi-year journey to understand “The Mindset” leading the wealthy to believe that as long they have enough money and the right technology, they can break the laws of physics, economics, and morality to escape a disaster of their own making. They are preparing for a digital future that has less to do with making the world a better place than transcending the human condition altogether.
+Los carteles en las paredes son una forma de enviar mensajes pequeños, pero pueden ser muy poderosos. Estos carteles pueden ser políticos, sociales o culturales. En Buenos Aires, estos carteles se pueden encontrar en todas partes, en calles y son una parte de las paredes de los barrios de todos los estratos sociales de la ciudad.
 
-These billionaires once showered the world with optimistic business plans for how tech might benefit human society. Now they’ve reduced technological progress to a video game that one of them wins by finding the escape hatch. Will it be Bezos migrating to space, Thiel to his New Zealand compound, or Zuckerberg to his Metaverse?
+![Image](https://res.cloudinary.com/daizxjjsm/image/upload/v1726712218/mrwhz9oxuysxkmw89ill.jpg)
+![Image](https://res.cloudinary.com/daizxjjsm/image/upload/v1726712220/uizfrmdtmttex0sv08us.jpg)
 
-This “out of sight, out of mind” externalization of poverty and poison trickles down through the Mindset to the rest of us; but the collateral damage doesn’t go away just because we’ve covered our eyes with VR goggles. The longer we ignore the social, economic, and environmental repercussions of our actions, the more of a problem they become. This, in turn, motivates even more withdrawal, isolationism, and apocalyptic fantasy.
+## Reflejo del pensamiento popular
 
-The Mindset is based in a staunchly atheistic and materialist scientism, a faith in technology to solve problems, an adherence to biases of digital code, an understanding of human relationships as market phenomena, a fear of nature and women, a need to see one’s contributions as utterly unique innovations without precedent, and an urge to neutralize the unknown by dominating and de-animating it.
+Es claro que para hacer llegar un mensaje hay que hacerlo publico sobre todo si hablamos de activismo, pero hoy en internet entre tantos tweets, storys y tiktoks el mensaje puede perder fuerza y hacerce mas efimero. Los carteles también son una forma en que las minorías pueden hacerse escuchar y llamar la atención sobre los temas importantes que afectan sus vidas. En muchos sentidos, **los afiches en las paredes son una forma de democracia directa, en la que los ciudadanos tienen la oportunidad de expresarse y ser escuchados.**
 
-The technosolutionist future climaxes by uploading our economy to the blockchain and our minds to the cloud. We “level up” in the ultimate exit strategy. Like the plot of a Marvel blockbuster, the very structure of The Mindset requires an endgame. Everything must resolve to a one or a zero, a winner or loser, the saved or the damned.
+![Image](https://res.cloudinary.com/daizxjjsm/image/upload/v1726712271/grl1jwonmk8qprmypujq.jpg)
 
-This fatalist drive to rise above and separate from humanity is no more the result of runaway digital capitalism than its cause — a way of treating one another and the world that can be traced back to the sociopathic tendencies of empirical science, individualism, sexual domination, and perhaps even “progress” itself. But this Mindset can be denaturalized and replaced.
+![Image](https://res.cloudinary.com/daizxjjsm/image/upload/v1726712214/yi7ydbadgzljrrcnwfk3.jpg)
 
-We must act as a counterculture to The Mindset, introducing circularity where they see only arrows, and more thoughtful, long-term thinking when they can only strive for escape.
-Those of us who recognize that we’ve been here before are the ones who have to call attention to where we are heading. Today, that means acting as a counterculture to The Mindset, introducing circularity where they see only arrows, and more thoughtful, long-term thinking when they can only strive for escape. We still have choices.
 
-Mine, was to chronicle my experiences with the tech elite over the years, and call out the ways in which our dreams for a better future too often involved externalizing harm to others, or ignoring today’s impacts for tomorrow’s promised gains. Just the announcement of this book has already led to the cancellation of two speaking events by sponsors who fear being associated with a critique of runaway exponential capitalism (which is what many of them are still trying to sell as a desired and attainable outcome). I take this as a good sign.
+## Parte de la cultura de la ciudad
 
-Yes, I’d love you to support this book by pre-ordering it or (better yet) asking your library to carry it. It’s being published by an employee-owned company, and in as friendly a fashion as possible. But more importantly, I’m hoping you’ll read it by any means necessary, and join me and others in imagining a better path forward.
+Los carteles a mi parecer son una parte unica de la ciudad que te muestran esa parte de los Argentinos de la que nadie habla pero todo mundo piensa, los carteles han sido utilizados por generaciones para enviar mensajes y hacer reflexionar al público y me parece que los chicxs en Buenos Aires que hacen esto lo estan haciendo muy bien. Este arte es una forma espectacular en que la ciudad se conecta con sus residentes y visitantes, y son una parte importante de la identidad de la capital.
 
-We do not have to buy-in to the apocalypse for which these billionaires are actively preparing and, in some cases, they are intentionally accelerating. There’s no way out, except together.
+![Image](https://res.cloudinary.com/daizxjjsm/image/upload/v1725488692/aldz87ew535vxpfkavwh.jpg)
+![Image](https://res.cloudinary.com/daizxjjsm/image/upload/v1726712305/qu54h9yfl3d3puqavjes.jpg)
 
-Douglas Rushkoff’s upcoming book, Survival of the Richest: Escape Fantasies of the Tech Billionaires, is available for pre-order. Rushkoff is a weekly columnist on Medium, and the author of books including Team Human, Throwing Rocks at the Google Bus, Present Shock, and Program or Be Programmed. Rushkoff is host of the Team Human podcast, a graphic novelist, and a professor of media theory and digital economics.
+En fin, los carteles en las paredes son lo máximo  Estos carteles son una forma en que los ciudadanos expresan sus ideas y pensamientos sobre diversos temas, y **reflejan la ideología de la ciudad.**STanto si eres Argentino como visitante, me parece una genialidad conectar con las ideas que permean en el incociente colectivo de la ciudad y te aseguro que una vez que les prestes atencion no vas a poder parar de detenerte en diferentes calles de la ciudad para apreciar las reflexiones que que estos peuqeños carteles te invitan a realizar ¡No te los pierdas!.
