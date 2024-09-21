@@ -12,7 +12,7 @@ export const authors: Props[] = [
     name: "Antonio Dromundo",
     slug: "antonio-dromundo",
     image: "./src/assets/authors/antonio.jpg",
-    bio: "Soy un desarrollador de software apasionado por viajar, explorar nuevos destinos y capturar momentos a través de la fotografía. Cuando no estoy escribiendo código, estoy recorriendo el mundo, reflexionando sobre mis experiencias y encontrando inspiración en cada rincón. En “Viajero Fachero”, combino mis dos pasiones, compartiendo mis proyectos, reflexiones y fotos que narran las historias de mis aventuras globales.",
+    bio: "Soy Antonio Dromundo, un desarrollador de software, apasionado viajero y eterno aprendiz de la vida. Mi búsqueda no se limita a escribir código; busco experiencias que me transformen, lugares que me desafíen y personas que me inspiren. Cuando no estoy frente a una pantalla, estoy explorando el mundo, entrenando Jiu Jitsu Brasileño o reflexionando sobre el impacto que cada viaje tiene en mi crecimiento personal. En “Viajero Fachero”, comparto mis aventuras, proyectos y aprendizajes, con el objetivo de inspirar a otros a tomar las riendas de su vida, explorar lo desconocido y encontrar su propio camino.",
   },
  
 ];

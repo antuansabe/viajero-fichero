@@ -1,5 +1,5 @@
 ---
-title: "Portugal, un viaje marcial"
+title: "De Guadalajara a Lisboa: Cómo el Jiu Jitsu Brasileño me Llevó al Otro Lado del Mundo"
 excerpt: "In 2007, the now-defunct San Antonio Independent Christian Film Festival awarded Best of Festival to a documentary called The Monstrous Regiment of Women "
 publishDate: "2024-11-18T11:39:36.050Z"
 image: "https://res.cloudinary.com/daizxjjsm/image/upload/v1726709692/bjmssaaxow2o0gwufac1.webp"
@@ -58,6 +58,6 @@ Hoy, más que nunca, estoy convencido de que **los viajes, al igual que el Jiu J
 
 Si algo me ha dejado claro este viaje, es que las fronteras —tanto físicas como mentales— se desvanecen cuando decides enfrentar tus miedos, aprender de tus fracasos y celebrar cada pequeña victoria. Porque, al final, el verdadero viaje está dentro de ti, en esa lucha constante por ser mejor, por superar tus propias expectativas y por encontrar tu lugar en el mundo.
 
-Así que, si estás leyendo esto, te invito a que te atrevas. A que tomes las riendas de tu vida, ya sea a través de un viaje, un deporte, o simplemente un paso hacia lo desconocido. **El Jiu Jitsu me llevó a Portugal**, pero más importante aún, me llevó a descubrirme a mí mismo. Y estoy convencido de que, cualquiera que sea tu camino, **la clave está en empezar y seguir avanzando, a pesar de los obstáculos**.
+Así que, si estás leyendo esto, te invito a que te atrevas. A que tomes las riendas de tu vida, ya sea a través de un viaje, un deporte, o simplemente un paso hacia lo desconocido. **El Jiu Jitsu me llevó a Portugal**, pero más importante aún, me llevó a descubrirme a mí mismo. Y estoy convencido de que, cualquiera que sea tu camino, **la clave está en EMPEZAR y seguir avanzando.**.
 
 El mundo está ahí afuera, lleno de experiencias esperando a ser vividas. Atrévete a vivirlas, atrévete a viajar, a entrenar, a aprender y a desafiarte. Porque en esa lucha, en ese viaje, es donde realmente nos encontramos.
